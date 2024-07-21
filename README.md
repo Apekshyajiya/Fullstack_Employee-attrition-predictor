@@ -1,0 +1,1 @@
+This project is my pre final year internship project, where I have created a fully functional frontend with ReactJS and the backend with Django. This project can predict if an employee has the chances of leaving a company or is in the zone of being fired by the company. This project is used by the HRs.
